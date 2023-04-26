@@ -1,2 +1,2 @@
-# cpp-SOTN-WED
+# cpp-SOTN-BikiniBottom
 Repository Untuk Tugas Pemrograman C 
