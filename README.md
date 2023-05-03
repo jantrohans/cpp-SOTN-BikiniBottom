@@ -5,15 +5,18 @@ repository ini berisi tugas yang ditugaskan oleh dosen mata kuliah Pemrograman c
 
 
 Program Contoh Class dan Objek C++
+
 Program ini adalah contoh sederhana tentang penggunaan class dan objek pada bahasa pemrograman C++.
 
 Instalasi
+
 Unduh atau salin kode sumber program ke dalam sebuah file dengan ekstensi .cpp.
 Pastikan Anda memiliki kompiler C++ yang terinstall pada komputer Anda.
 Compile kode sumber dengan menggunakan perintah g++ nama_file.cpp -o nama_program.
 Jalankan program dengan perintah ./nama_program.
 
 Cara Penggunaan
+
 Jalankan program dengan cara yang telah dijelaskan pada bagian instalasi.
 Program akan membuat objek dari class Contoh dengan angka 5.
 Program akan memanggil fungsi getAngka() pada objek obj.
@@ -28,6 +31,7 @@ Di dalam fungsi main(), kita membuat sebuah objek obj dari class Contoh dengan n
 Kemudian, kita memanggil fungsi getAngka() pada objek obj dan menampilkannya pada layar menggunakan cout.
 
 Kontributor
+
 Evid Wijaya
 Jantro Hans William
 Dimas Pratama
