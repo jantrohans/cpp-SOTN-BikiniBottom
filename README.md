@@ -36,33 +36,3 @@ Evid Wijaya
 Jantro Hans William
 Dimas Pratama
 
-
-
-#include <iostream>
-using namespace std;
-
-// deklarasi class
-class Contoh {
-  private:
-    int angka;
-
-  public:
-    // constructor
-    Contoh(int a) {
-        angka = a;
-    }
-
-    // fungsi untuk mengembalikan nilai angka
-    int getAngka() {
-        return angka;
-    }
-};
-
-int main() {
-  // membuat objek dari class Contoh
-  Contoh obj(5);
-
-  // memanggil fungsi getAngka pada objek
-  cout << "Nilai angka pada objek: " << obj.getAngka() << endl;
-
-  return 0;
