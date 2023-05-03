@@ -32,7 +32,7 @@ Kemudian, kita memanggil fungsi getAngka() pada objek obj dan menampilkannya pad
 
 Kontributor
 
-Evid Wijaya
-Jantro Hans William
-Dimas Pratama
+Evid Wijaya ->
+Jantro Hans William ->
+Dimas Pratama ]
 
